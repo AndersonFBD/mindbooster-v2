@@ -1,0 +1,19 @@
+{
+    "flashcards": [
+        {
+            "id" : 1,
+            "frente": "escritorio",
+            "verso": "office"
+        },
+        {
+            "id": 2,
+            "frente": "loja",
+            "verso": "store"
+        },
+        {
+            "id": 3,
+            "frente": "edificio",
+            "verso": "building"
+        }
+    ]
+}
